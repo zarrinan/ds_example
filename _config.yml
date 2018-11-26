@@ -10,7 +10,7 @@
 # If you are building a GitHub project page then use these settings:
 url: "http://username.github.io/project-name"
 baseurl: "/project-name"
-jekyll serve --baseurl ''
+#jekyll serve --baseurl ''
 
 
 # Of course don't forget to change the username and projectname to YOUR username and project
