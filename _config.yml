@@ -16,7 +16,7 @@ baseurl: "/ds_example"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Data Scientist
+title: Data Science Portfolio
 
 # Short description of your site
 description: A data scientist example portfolio website!
