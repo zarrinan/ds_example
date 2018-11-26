@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hi, I'm Zarrina, a data scientist enthusiast, and I've started my journey into data science not so long ago. Growing up, I loved math and social sciences, so I studied economics. At my first job, I worked on a project of BI implementation and creation of databases, and so I discovered I like coding. Then, I studied in a coding school and learned web development, mostly using JavaScript. While in coding school, I've built a couple of projects using Machine Learning API's and that's how I've discovered data science and machine learning, and I was fascinated by what can be achieved using Machine Learning. Now, studiying data science, I use skills I've learned before - math, statistics, and coding. I believe, my knowledge of economics and business also help me to understand and solve businees problems in an efficient way too. 
+I'm very excited about my data science journey and looking forward to seeing what it brings!
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
